@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StrukturC.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="struct2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="struct3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
